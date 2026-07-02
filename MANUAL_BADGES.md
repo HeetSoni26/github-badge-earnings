@@ -1,6 +1,6 @@
-# Manual Badge Requirements Guide
+# Complete GitHub Badge Guide
 
-This guide explains how to earn the remaining GitHub badges that require manual actions or external participation.
+This guide explains ALL GitHub badges, including those currently being tested and unavailable ones.
 
 ## 📋 Overview
 
@@ -112,6 +112,20 @@ Sponsor an open source contributor through GitHub Sponsors.
 
 ---
 
+## 🔬 Badges Being Tested (Currently Unavailable)
+
+These badges were being tested by GitHub but are currently not earnable:
+
+### Heart On Your Sleeve ❤️
+- **Requirement**: React to something on GitHub with a ❤️ emoji
+- **Status**: Being tested - currently unable to earn
+- **Note**: May become available in the future
+
+### Open Sourcerer 🌟
+- **Requirement**: Have PRs merged in multiple public repositories
+- **Status**: Being tested - currently unable to earn
+- **Note**: May become available in the future
+
 ## ❌ No Longer Earnable
 
 These badges are historical and cannot be earned anymore:
@@ -129,19 +143,25 @@ These badges are historical and cannot be earned anymore:
 ## 📊 Progress Summary
 
 - **Automated Badges**: 4/4 ✅
-- **Manual Badges**: 0/3 (Starstruck, Galaxy Brain, Sponsor)
+- **Manual Badges**: 0/2 (Starstruck, Sponsor) - Galaxy Brain currently unavailable via Community discussions
 - **Highlight Badges**: 0/5 (Pro, Developer Program, Security, Campus Expert, Advisory)
+- **Testing Badges**: 0/2 (Heart On Your Sleeve, Open Sourcerer) - Currently unavailable
 - **Historical Badges**: 0/2 (No longer earnable)
-- **Total Progress**: 4/14 badges
+- **Total Progress**: 4/15 badges (excluding unavailable/testing badges)
 
 ---
 
 ## 🎯 Next Steps
 
-1. **Starstruck**: Promote your repositories and create useful tools
-2. **Galaxy Brain**: Participate in GitHub Discussions regularly
-3. **Public Sponsor**: Consider sponsoring developers whose work you value
-4. **Highlight Badges**: Apply to relevant programs if eligible
+### Currently Available Actions
+1. **Starstruck**: Promote your repositories and create useful tools (needs 16 stars)
+2. **Public Sponsor**: Consider sponsoring developers whose work you value
+3. **Highlight Badges**: Apply to relevant programs if eligible (Pro, Developer Program, Security, Campus Expert, Advisory)
+
+### Currently Unavailable
+- **Galaxy Brain**: Not earnable via Community discussions currently
+- **Heart On Your Sleeve**: Being tested by GitHub
+- **Open Sourcerer**: Being tested by GitHub
 
 ## ⏱️ Badge Processing Time
 
